@@ -26,4 +26,4 @@ Patient ↔ Bill → One-to-Many
 📊 Dashboard & Analytics
 📅 Appointment filtering by date
 💳 Payment status (Paid/Unpaid)
-🌐 Frontend Integration (React)
+
